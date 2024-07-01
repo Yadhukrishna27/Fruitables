@@ -1,0 +1,48 @@
+.navbar{
+    height: 100px;
+}
+
+.abc{
+    background: url("https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat center;
+
+}
+.d16{
+    font-weight: bolder;
+    line-height: 1.2;
+}
+.fa-solid{
+    color: #81c408;
+    font-size: 20px;
+}
+
+.h-100{
+    height: 80vh;
+    width: 100%;
+}
+
+.car1{
+    width: 40vw;
+    margin-top: 15vh;
+    margin-left: 32vh;
+    border: none;
+}
+
+.card2{
+    width: 35vw;
+    margin-top: 16vh;
+    margin-left: 3vh;
+    margin-bottom: 18vh;
+}
+.text-re{
+    color: #81c408;
+}
+
+.nav-link{
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.hr{
+    margin: 21px;
+    font-weight: bold;
+}
